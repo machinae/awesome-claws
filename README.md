@@ -1,5 +1,17 @@
-# awesome-claws
-A curated list of awesome AI agents inspired by OpenClaw.
+# Awesome Claws
+
+*A curated list of awesome AI agents inspired by OpenClaw.*
+
+<div align="center">
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-13-2ea44f?style=flat-square)
+![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+
+</div>
+
 
 ## Main Projects
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.
@@ -15,3 +27,7 @@ A curated list of awesome AI agents inspired by OpenClaw.
 - **[HermitClaw](https://github.com/brendanhogan/hermitclaw)** - Python - A tiny autonomous AI creature that lives in a folder, continuously researching and generating reports, scripts, and notes.
 - **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** - Python - Agentic IM chatbot infrastructure with broad IM platform support, LLM integrations, plugins, and AI features.
 - **[safeclaw](https://github.com/princezuda/safeclaw)** - Python - OpenClaw alternative focused on safe text and voice interactions without relying on an LLM, while preserving core assistant capabilities.
+
+## Contributing
+
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
