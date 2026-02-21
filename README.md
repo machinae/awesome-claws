@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-13-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-17-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -23,6 +23,10 @@
 - **[HermitClaw](https://github.com/brendanhogan/hermitclaw)** - Python - A tiny autonomous AI creature that lives in a folder, continuously researching and generating reports, scripts, and notes.
 - **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** - Python - Agentic IM chatbot infrastructure with broad IM platform support, LLM integrations, plugins, and AI features.
 - **[safeclaw](https://github.com/princezuda/safeclaw)** - Python - OpenClaw alternative focused on safe text and voice interactions without relying on an LLM, while preserving core assistant capabilities.
+- **[Antfarm](https://github.com/snarktank/antfarm)** - TypeScript - Build your agent team in OpenClaw with one command. Multi-agent workflows with planner, developer, verifier, and reviewer roles.
+- **[BabyClaw](https://github.com/yogesharc/babyclaw)** - JavaScript - Lightweight single-file alternative to OpenClaw built on Claude Agent SDK. Telegram-controlled with voice messages, personality adaptation, and cron automation.
+- **[Moltworker](https://github.com/cloudflare/moltworker)** - TypeScript - Run OpenClaw on Cloudflare Workers with sandboxed execution, ~$35/month serverless deployment.
+- **[ZeptoClaw](https://github.com/qhkm/zeptoclaw)** - Rust - Ultra-lightweight ~4MB binary with 7-layer security (container isolation, prompt injection detection, secret scanning). One-command OpenClaw migration.
 
 ## Contributing
 
