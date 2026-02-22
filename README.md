@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-19-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-20-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -30,6 +30,7 @@
 - **[shrew](https://github.com/Masmedeam/shrew)** - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.
 - **[zclaw](https://github.com/tnm/zclaw)** - C - The smallest possible AI personal assistant for ESP32.
 - **[Clawlet](https://github.com/Kxrbx/Clawlet)** - Python -  A lightweight AI agent framework with identity awareness inspired by OpenClaw, aimed to be very simple to set up and easy to use, get up and running in 2 minutes. 
+- **[subzeroclaw](https://github.com/jmlago/subzeroclaw)** - C - A skill-driven agentic daemon for edge hardware.
 
 
 ## Contributing
