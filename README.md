@@ -29,6 +29,7 @@
 - **[Flowly AI](https://github.com/Nocetic/flowlyai)** - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.
 - **[shrew](https://github.com/Masmedeam/shrew)** - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.
 - **[zclaw](https://github.com/tnm/zclaw)** - C - The smallest possible AI personal assistant for ESP32.
+- **[Clawlet](https://github.com/Kxrbx/Clawlet)** - Python -  A lightweight AI agent framework with identity awareness inspired by OpenClaw, aimed to be very simple to set up and easy to use, get up and running in 2 minutes. 
 - **[subzeroclaw](https://github.com/jmlago/subzeroclaw)** - C - A skill-driven agentic daemon for edge hardware.
 
 
