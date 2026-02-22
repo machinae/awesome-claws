@@ -30,6 +30,7 @@
 - **[shrew](https://github.com/Masmedeam/shrew)** - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.
 - **[zclaw](https://github.com/tnm/zclaw)** - C - The smallest possible AI personal assistant for ESP32.
 - **[subzeroclaw](https://github.com/jmlago/subzeroclaw)** - C - A skill-driven agentic daemon for edge hardware.
+- **[Autobot](https://github.com/crystal-autobot/autobot)** - Crystal - AI assistant with kernel-enforced sandboxing, multi-provider LLM, voice, vision, cron, and MCP tools.
 
 
 ## Contributing
