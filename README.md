@@ -26,7 +26,7 @@
 - **[BabyClaw](https://github.com/yogesharc/babyclaw)** - JavaScript - Lightweight single-file alternative to OpenClaw built on Claude Agent SDK. Telegram-controlled with voice messages, personality adaptation, and cron automation.
 - **[safeclaw](https://github.com/princezuda/safeclaw)** - Python - OpenClaw alternative focused on safe text and voice interactions without relying on an LLM, while preserving core assistant capabilities.
 - **[droidclaw](https://github.com/unitedbyai/droidclaw)** - TypeScript - OpenClaw-inspired assistant tailored for Android workflows with lightweight deployment and mobile-first automation.
-- **[flowlyai](https://github.com/Nocetic/flowlyai)** - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.
+- **[Flowly AI](https://github.com/Nocetic/flowlyai)** - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.
 - **[shrew](https://github.com/Masmedeam/shrew)** - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.
 
 ## Contributing
