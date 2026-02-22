@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-13-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-18-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -22,7 +22,12 @@
 - **[MimiClaw](https://github.com/memovai/mimiclaw)** - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.
 - **[HermitClaw](https://github.com/brendanhogan/hermitclaw)** - Python - A tiny autonomous AI creature that lives in a folder, continuously researching and generating reports, scripts, and notes.
 - **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** - Python - Agentic IM chatbot infrastructure with broad IM platform support, LLM integrations, plugins, and AI features.
+- **[ZeptoClaw](https://github.com/qhkm/zeptoclaw)** - Rust - Ultra-lightweight ~4MB binary with 7-layer security (container isolation, prompt injection detection, secret scanning). One-command OpenClaw migration.
+- **[BabyClaw](https://github.com/yogesharc/babyclaw)** - JavaScript - Lightweight single-file alternative to OpenClaw built on Claude Agent SDK. Telegram-controlled with voice messages, personality adaptation, and cron automation.
 - **[safeclaw](https://github.com/princezuda/safeclaw)** - Python - OpenClaw alternative focused on safe text and voice interactions without relying on an LLM, while preserving core assistant capabilities.
+- **[droidclaw](https://github.com/unitedbyai/droidclaw)** - TypeScript - OpenClaw-inspired assistant tailored for Android workflows with lightweight deployment and mobile-first automation.
+- **[flowlyai](https://github.com/Nocetic/flowlyai)** - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.
+- **[shrew](https://github.com/Masmedeam/shrew)** - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.
 
 ## Contributing
 
