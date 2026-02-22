@@ -1,6 +1,8 @@
 # Contributing
 
 Thanks for your interest in contributing to Awesome Claws.
+THis repo is only for independent projects inspired by OpenClaw.
+Projects dependent on OpenClaw or in the OpenClaw ecosystem will not be accepted.
 
 ## How to contribute
 
