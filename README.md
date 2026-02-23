@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-25-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-26-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -14,7 +14,7 @@
 - **[PicoClaw](https://github.com/sipeed/picoclaw)** - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.
 - **[nanobot](https://github.com/HKUDS/nanobot)** - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.
-- **[TinyClaw](https://github.com/jlia0/tinyclaw)** - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.
+- **[TinyClaw](https://github.com/TinyAGI/tinyclaw)** - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.
 - **[NanoClaw](https://github.com/qwibitai/nanoclaw)** - TypeScript - Lightweight container-sandboxed assistant designed to be simple to understand and extend via skills.
 - **[Moltis](https://github.com/moltis-org/moltis)** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access.
 - **[IronClaw](https://github.com/nearai/ironclaw)** - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.
@@ -35,6 +35,7 @@
 - **[moxxy](https://github.com/moxxy-ai/moxxy)** - Rust - A self-hosted multi-agent AI framework built in Rust.
 - **[Microclaw](https://github.com/microclaw/microclaw)** - Rust - An agentic AI assistant for chat surfaces, inspired by nanoclaw and incorporating some of its design ideas.
 - **[troublemaker](https://github.com/tinyfatco/troublemaker)** - TypeScript - Mom, liberated. Multi-platform AI agent runtime.
+- **[LettaBot](https://github.com/letta-ai/lettabot)** - TypeScript - Personal AI assistant with persistent memory across Telegram, Slack, WhatsApp, and Signal.
 
 
 ## Contributing
