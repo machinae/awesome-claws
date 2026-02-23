@@ -35,6 +35,7 @@
 - **[moxxy](https://github.com/moxxy-ai/moxxy)** - Rust - A self-hosted multi-agent AI framework built in Rust.
 - **[Microclaw](https://github.com/microclaw/microclaw)** - Rust - An agentic AI assistant for chat surfaces, inspired by nanoclaw and incorporating some of its design ideas.
 - **[troublemaker](https://github.com/tinyfatco/troublemaker)** - TypeScript - Mom, liberated. Multi-platform AI agent runtime.
+- **[SupaClaw](https://github.com/vincenzodomina/supaclaw)** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
 
 
 ## Contributing
