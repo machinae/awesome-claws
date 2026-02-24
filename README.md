@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-26-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-27-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -36,6 +36,7 @@
 - **[Microclaw](https://github.com/microclaw/microclaw)** - Rust - An agentic AI assistant for chat surfaces, inspired by nanoclaw and incorporating some of its design ideas.
 - **[troublemaker](https://github.com/tinyfatco/troublemaker)** - TypeScript - Mom, liberated. Multi-platform AI agent runtime.
 - **[LettaBot](https://github.com/letta-ai/lettabot)** - TypeScript - Personal AI assistant with persistent memory across Telegram, Slack, WhatsApp, and Signal.
+- **[picobot](https://github.com/louisho5/picobot)** - Go - A lightweight self-hosted bot in a single binary, written in Go.
 
 
 ## Contributing
