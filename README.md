@@ -37,6 +37,7 @@
 - **[troublemaker](https://github.com/tinyfatco/troublemaker)** - TypeScript - Mom, liberated. Multi-platform AI agent runtime.
 - **[LettaBot](https://github.com/letta-ai/lettabot)** - TypeScript - Personal AI assistant with persistent memory across Telegram, Slack, WhatsApp, and Signal.
 - **[picobot](https://github.com/louisho5/picobot)** - Go - A lightweight self-hosted bot in a single binary, written in Go.
+- **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant - Lets talk to your cat!
 
 
 ## Contributing
