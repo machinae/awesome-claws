@@ -40,6 +40,8 @@
 - **[picobot](https://github.com/louisho5/picobot)** - Go - A lightweight self-hosted bot in a single binary, written in Go.
 - **[AngelClaw](https://github.com/Abdur-rahmaanJ/angel-claw)** - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.
 - **[SupaClaw](https://github.com/vincenzodomina/supaclaw)** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
+- **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant
+
 
 ## Contributing
 
