@@ -39,6 +39,7 @@
 - **[LettaBot](https://github.com/letta-ai/lettabot)** - TypeScript - Personal AI assistant with persistent memory across Telegram, Slack, WhatsApp, and Signal.
 - **[picobot](https://github.com/louisho5/picobot)** - Go - A lightweight self-hosted bot in a single binary, written in Go.
 - **[AngelClaw](https://github.com/Abdur-rahmaanJ/angel-claw)** - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.
+- **[SupaClaw](https://github.com/vincenzodomina/supaclaw)** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
 
 ## Contributing
 
