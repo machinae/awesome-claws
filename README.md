@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-36-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-37-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -46,6 +46,7 @@
 - **[AlphaClaw](https://github.com/chrysb/alphaclaw)** - TypeScript - OpenClaw harness with setup wizard, self-healing watchdog, Git-backed rollback, browser-based observability, anti-drift prompt hardening, and one-click Railway/Render deploy.
 - **[PhoneClaw](https://github.com/rohanarun/phoneclaw)** - Kotlin - Android automation app that runs on-device workflows using ClawScript, a JavaScript-based scripting language, with vision-assisted UI targeting, cron scheduling, and cross-app chaining.
 - **[pc-agent-loop](https://github.com/lsdefine/pc-agent-loop)** - Python - Minimalist autonomous agent framework (~3,300 lines) giving any LLM physical-level PC control over browser, terminal, file system, keyboard, mouse, screen vision, and mobile devices, with self-growing SOP memory.
+- **[OneClaw](https://github.com/oneclaw/oneclaw)** - TypeScript - Zero-config desktop client for OpenClaw. One-minute install on macOS and Windows with a bundled Node.js runtime (no dev tooling required), multi-provider LLM support (Anthropic, OpenAI, Google, Kimi, custom), auto-update, session memory, and Feishu integration.
 
 
 ## Contributing
