@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-39-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-41-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -49,6 +49,8 @@
 - **[OneClaw](https://github.com/oneclaw/oneclaw)** - TypeScript - Zero-config desktop client for OpenClaw. One-minute install on macOS and Windows with a bundled Node.js runtime (no dev tooling required), multi-provider LLM support (Anthropic, OpenAI, Google, Kimi, custom), auto-update, session memory, and Feishu integration.
 - **[ResearchClaw](https://github.com/ymx10086/ResearchClaw)** - Python - AI-powered research assistant built on AgentScope with a ReAct agent, specialized academic tools (ArXiv, Semantic Scholar, PDF reader, BibTeX, LaTeX), persistent research memory, experiment tracking, and scheduled paper digests.
 - **[CitationClaw](https://github.com/VisionXLab/CitationClaw)** - Python - Lightweight engine for discovering scientific impact through citations with a five-phase pipeline (crawl, author intelligence, export, citing description, dashboard), tiered analysis modes, resumable runs, and shareable HTML reports.
+- **[ClawWork](https://github.com/HKUDS/ClawWork)** - Python - Transforms AI assistants into AI coworkers via a real-world economic benchmark where agents complete 220 professional tasks across 44 sectors, earn income, pay for their own token costs, and compete for economic survival.
+- **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** - Python - Agent that meta-learns and evolves from live conversations via an OpenAI-compatible proxy that injects skills at every turn, auto-summarizes sessions into new skills, and optionally runs GRPO RL fine-tuning during idle windows.
 
 
 ## Contributing
