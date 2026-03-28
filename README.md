@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-41-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-34-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -16,7 +16,9 @@
 - **[nanobot](https://github.com/HKUDS/nanobot)** - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.
 - **[TinyClaw](https://github.com/TinyAGI/tinyclaw)** - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.
 - **[NanoClaw](https://github.com/qwibitai/nanoclaw)** - TypeScript - Lightweight container-sandboxed assistant designed to be simple to understand and extend via skills.
-- **[Moltis](https://github.com/moltis-org/moltis)** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel access.
+- **[Moltis](https://github.com/moltis-org/moltis)** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel
+- **[TrinityClaw](https://github.com/TrinityClaw/trinity-claw)** - Python - Self-hosted local only AI agent with web automation, memory, code execution, email, calendar, and local/cloud LLM support.
+access.
 - **[IronClaw](https://github.com/nearai/ironclaw)** - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.
 - **[NullClaw](https://github.com/nullclaw/nullclaw)** - Zig - Fully autonomous assistant infrastructure designed for tiny binaries, low memory usage, and highly portable deployment.
 - **[MimiClaw](https://github.com/memovai/mimiclaw)** - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.
@@ -40,6 +42,7 @@
 - **[AngelClaw](https://github.com/Abdur-rahmaanJ/angel-claw)** - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.
 - **[SupaClaw](https://github.com/vincenzodomina/supaclaw)** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
 - **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant
+- **[OpenCrabs](https://github.com/adolfousier/opencrabs)** - Rust - The self-improving autonomous AI agent. Every channel. Multi-provider LLM support, tool use, TUI, fallback chains, and cron jobs.
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
 - **[HiClaw](https://github.com/higress-group/hiclaw)** - Shell - Multi-agent collaboration system with Manager-Worker architecture, Matrix-based communication, and centralized credential management.
 - **[ClawX](https://github.com/ValueCell-ai/ClawX)** - TypeScript - Desktop interface for OpenClaw AI agents with guided setup wizard, visual settings, multi-channel management, cron-based automation, and a built-in skill marketplace.
@@ -51,6 +54,9 @@
 - **[CitationClaw](https://github.com/VisionXLab/CitationClaw)** - Python - Lightweight engine for discovering scientific impact through citations with a five-phase pipeline (crawl, author intelligence, export, citing description, dashboard), tiered analysis modes, resumable runs, and shareable HTML reports.
 - **[ClawWork](https://github.com/HKUDS/ClawWork)** - Python - Transforms AI assistants into AI coworkers via a real-world economic benchmark where agents complete 220 professional tasks across 44 sectors, earn income, pay for their own token costs, and compete for economic survival.
 - **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** - Python - Agent that meta-learns and evolves from live conversations via an OpenAI-compatible proxy that injects skills at every turn, auto-summarizes sessions into new skills, and optionally runs GRPO RL fine-tuning during idle windows.
+- **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
+- **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 
 
 ## Contributing
