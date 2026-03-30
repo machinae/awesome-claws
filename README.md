@@ -20,6 +20,7 @@
 - **[TrinityClaw](https://github.com/TrinityClaw/trinity-claw)** - Python - Self-hosted local only AI agent with web automation, memory, code execution, email, calendar, and local/cloud LLM support.
 access.
 - **[IronClaw](https://github.com/nearai/ironclaw)** - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.
+- **[LionClaw](https://github.com/moshthepitt/lionclaw)** - Rust - Secure-first local AI CLI with a small auditable kernel, durable sessions, and installable skills.
 - **[NullClaw](https://github.com/nullclaw/nullclaw)** - Zig - Fully autonomous assistant infrastructure designed for tiny binaries, low memory usage, and highly portable deployment.
 - **[MimiClaw](https://github.com/memovai/mimiclaw)** - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.
 - **[HermitClaw](https://github.com/brendanhogan/hermitclaw)** - Python - A tiny autonomous AI creature that lives in a folder, continuously researching and generating reports, scripts, and notes.
