@@ -49,6 +49,10 @@ access.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 
 
+## Tools & Integrations
+
+- [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, and more. Works with ChatGPT, Claude, Cursor, and any MCP client. `npx -y toolrouter-mcp`
+
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
