@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-47-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-81-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -58,6 +58,40 @@ access.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 - **[GitClaw](https://github.com/open-gitagent/gitclaw)** - TypeScript - A universal git-native multimodal always-learning AI agent where identity, rules, memory, tools, and skills are all version-controlled files inside a git repo.
+- **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** - Python - 23-stage idea-to-paper pipeline with auto LaTeX, citation verification, experiments, figures, and multi-agent peer review.
+- **[Research Claw](https://github.com/nanoAgentTeam/research-claw)** - Python - Self-hosted academic assistant with paper management, literature search, deadline tracking, and LaTeX/Overleaf sync.
+- **[Prismer](https://github.com/Prismer-AI/Prismer)** - Python - End-to-end research platform with PDF reading, Jupyter, LaTeX, code execution, and citation verification.
+- **[LabClaw](https://github.com/wu-yc/LabClaw)** - Python - 240 OpenClaw skills for biology, pharmacology, medicine, literature, and visualization.
+- **[PaperClaw](https://github.com/meowscles69/PaperClaw)** - Python - 27 skills for academic teams covering literature reviews, hypothesis versioning, grant writing, and knowledge handoffs.
+- **[scholar-skill](https://github.com/EESJGong/scholar-skill)** - Python - OpenClaw skill for academic reading, knowledge linking, reflection, and Obsidian knowledge evolution.
+- **[openclaw-paper-tools](https://github.com/henry-y/openclaw-paper-tools)** - Python - Auto-fetches HF Daily Papers and one-click deep reading via SwiftScholar.
+- **[Scientify](https://github.com/tsingyuai/scientify)** - Python - Continuous metabolism research system that tracks papers, evolves hypotheses, runs validation, and pushes updates proactively.
+- **[OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)** - Python - Turns daily conversations into training signal; async reinforcement learning to personalize OpenClaw or any agent.
+- **[ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw)** - TypeScript - ClawTeam's deep-adapted OpenClaw fork with swarm coordination, worktree isolation, and tmux multi-agent management.
+- **[x-research-skill](https://github.com/rohunvora/x-research-skill)** - Python - Wraps X/Twitter as a terminal research tool with search, thread following, monitoring, and sourced briefings.
+- **[openclaw-agents](https://github.com/shenhao-stu/openclaw-agents)** - Python - One-command setup for 9 specialized agents with Paper Pipeline, Brainstorm, Daily Digest, and Rebuttal built in.
+- **[MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin)** - Python - Official MemOS Cloud lifecycle plugin that recalls before run and writes back to long-term memory after run.
+- **[openclaw-engram](https://github.com/joshuaswarren/openclaw-engram)** - Python - Local-first long-term memory layer for agents with markdown storage, hybrid retrieval, and cross-session research context.
+- **[SkillNet](https://github.com/zjunlp/SkillNet)** - Python - Skill creation, evaluation, connection, and discovery infrastructure that searches 300k+ community skills.
+- **[OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)** - Python - 869 medical/biomedical skills spanning clinical, genomics, and drug discovery domains.
+- **[ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** - Python - Lightweight Markdown-only research workflow with cross-model review loops, idea discovery, and experiment automation.
+- **[Dr. Claw](https://github.com/OpenLAIR/dr-claw)** - Python - AI research IDE with 100+ skills, structured dashboard, auto-research one-click execution, and multi-agent support (Claude Code / Gemini / Codex).
+- **[AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)** - Python - End-to-end autonomous research workflow that turns research ideas into complete experiments and papers.
+- **[AI-Researcher](https://github.com/HKUDS/AI-Researcher)** - Python - Autonomous Scientific Innovation with dedicated research_agent and paper_agent modules.
+- **[AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** - Python - Workshop-level automated scientific discovery via agentic tree search.
+- **[OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist)** - Python - AI Scientist ecosystem covering idea generation, experiment design, and paper writing as a holistic blueprint.
+- **[LLM-MM-Agent](https://github.com/usail-hkust/LLM-MM-Agent)** - Python - Mathematical modeling agent for problem analysis, modeling, code solving, visualization, and report generation.
+- **[Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists)** - Python - ACL 2025 project for many-heads multi-agent scientific idea generation.
+- **[MLGym](https://github.com/facebookresearch/MLGym)** - Python - Unified framework and benchmark for AI research agents.
+- **[aira-dojo](https://github.com/facebookresearch/aira-dojo)** - Python - Extensible AI research agent development and evaluation framework with isolated code execution.
+- **[AIRS-Bench](https://github.com/facebookresearch/airs-bench)** - Python - Benchmark for quantifying end-to-end AI research abilities of LLM agents.
+- **[DeepResearch Bench](https://github.com/Ayanami0730/deep_research_bench)** - Python - Comprehensive benchmark and leaderboard for deep research agents.
+- **[open_deep_research](https://github.com/langchain-ai/open_deep_research)** - Python - Fully open-source deep research agent with multi-model, multi-search API, MCP support, and built-in report generation.
+- **[DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)** - Python - Tongyi Deep Research — the highest-starred open-source deep research agent.
+- **[MiroThinker](https://github.com/MiroMindAI/MiroThinker)** - Python - Deep research agent for complex research and prediction tasks with top BrowseComp scores (74.0 / 88.2).
+- **[MiroFlow](https://github.com/MiroMindAI/miroflow)** - Python - Performance-first open-source agent framework ranking #1 on 5+ benchmarks, supporting MiroThinker, Claude, Kimi, and OpenAI.
+- **[CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro)** - Python - Tencent's deep research agent framework with agent foundation model training.
+- **[Simply](https://github.com/google-deepmind/simply)** - Python - Minimal JAX research codebase designed for agents to read code, propose ideas, run experiments, and iterate.
 
 
 ## Contributing
