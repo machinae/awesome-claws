@@ -3,7 +3,7 @@
 *A curated list of awesome AI agents inspired by OpenClaw.*
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-![Projects](https://img.shields.io/badge/projects-81-2ea44f?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-82-2ea44f?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Maintained](https://img.shields.io/badge/maintained-yes-2ea44f?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
@@ -56,6 +56,7 @@ access.
 - **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** - Python - Agent that meta-learns and evolves from live conversations via an OpenAI-compatible proxy that injects skills at every turn, auto-summarizes sessions into new skills, and optionally runs GRPO RL fine-tuning during idle windows.
 - **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
+- **[Kode Agent](https://github.com/shareAI-lab/Kode-Agent)** - Python - AI coding agent with autonomous task execution, multi-file editing, and integrated tooling for software development workflows.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 - **[GitClaw](https://github.com/open-gitagent/gitclaw)** - TypeScript - A universal git-native multimodal always-learning AI agent where identity, rules, memory, tools, and skills are all version-controlled files inside a git repo.
 - **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** - Python - 23-stage idea-to-paper pipeline with auto LaTeX, citation verification, experiments, figures, and multi-agent peer review.
