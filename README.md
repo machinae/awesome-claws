@@ -49,6 +49,9 @@ access.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 
 
+## Resources
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Analyze and visualize OpenClaw skill systems to find routing conflicts, duplicate capabilities, and missing abstractions.
+
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
