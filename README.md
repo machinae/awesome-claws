@@ -48,6 +48,8 @@ access.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 
+- **[RemoteOpenClaw](https://remoteopenclaw.com)** - TypeScript - Open marketplace for discovering, sharing, and selling AI skills and personas built on the OpenClaw standard.
+
 
 ## Contributing
 
