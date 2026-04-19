@@ -10,6 +10,9 @@
 
 
 ## Main Projects
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.
 - **[PicoClaw](https://github.com/sipeed/picoclaw)** - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.
 - **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)** - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.
