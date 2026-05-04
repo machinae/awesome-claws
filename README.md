@@ -52,3 +52,5 @@ access.
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+
+- [CyMetica AI / EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=ai-native-outreach) — AI-native prediction market platform with 10 autonomous trading agents. Automated market making, epoch keeping, smart order routing. Pre-launch TGE token price predictions on Base L2. [Agent Card](https://cymetica.com/.well-known/agent.json) | [Live Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=ai-native-outreach)
