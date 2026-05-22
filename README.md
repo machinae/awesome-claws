@@ -46,8 +46,8 @@ access.
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
 - **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
-- **[Alfred](https://github.com/luminik-io/alfred-os)** - Python - Local engineering-agent fleet runtime for Claude Code and Codex with GitHub issue claiming, isolated worktrees, host scheduling, and Slack reports.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
+- **[Alfred](https://github.com/luminik-io/alfred-os)** - Python - Local engineering-agent fleet runtime for Claude Code and Codex with GitHub issue claiming, isolated worktrees, host scheduling, and Slack reports.
 
 
 ## Contributing
