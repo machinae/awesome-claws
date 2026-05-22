@@ -47,7 +47,7 @@ access.
 - **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
-- **[Alfred](https://github.com/luminik-io/alfred-os)** - Python - Local runtime that turns GitHub issues and specs into autonomous Claude Code and Codex runs, with clean worktrees, PRs, reviews, tests, and Slack reports.
+- **[Alfred](https://github.com/luminik-io/alfred-os)** - Python - Self-hosted runtime for autonomous Claude Code and Codex agents that turn GitHub issues into pull requests, with clean worktrees, role-based engine routing, and Slack reports.
 
 
 ## Contributing
