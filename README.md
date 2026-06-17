@@ -44,6 +44,7 @@ access.
 - **[pickle-bot](https://github.com/czl9707/pickle-bot)** - Python - A lightweight self-hosted personal AI assistant
 - **[OpenCrabs](https://github.com/adolfousier/opencrabs)** - Rust - The self-improving autonomous AI agent. Every channel. Multi-provider LLM support, tool use, TUI, fallback chains, and cron jobs.
 - **[OpenFang](https://github.com/RightNow-AI/openfang)** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
+- **[Hephaestus](https://github.com/agentlas-ai/Hephaestus)** - Python - Open Agent OS for Claude Code, Codex, and Cursor with local-first routing, agent and skill packaging, memory, security gates, and MCP Hub fallback.
 - **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
