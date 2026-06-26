@@ -47,6 +47,7 @@ access.
 - **[ClawDroid](https://github.com/KarakuriAgent/clawdroid)** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
 - **[Atombot](https://github.com/daegwang/atombot)** - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
+- **[Hivekeep](https://github.com/MarlBurroW/hivekeep)** - TypeScript - Self-hosted platform to run a team of specialized AI agents with persistent memory and a web UI; agents collaborate and build their own tools, mini-apps, and plugins; reachable over Telegram, Slack, Discord, and Matrix; single container (Bun + SQLite).
 
 
 ## Contributing
