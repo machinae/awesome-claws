@@ -33,6 +33,7 @@ access.
 - **[zclaw](https://github.com/tnm/zclaw)** - C - The smallest possible AI personal assistant for ESP32.
 - **[Clawlet](https://github.com/Kxrbx/Clawlet)** - Python -  A lightweight AI agent framework with identity awareness inspired by OpenClaw, aimed to be very simple to set up and easy to use, get up and running in 2 minutes. 
 - **[subzeroclaw](https://github.com/jmlago/subzeroclaw)** - C - A skill-driven agentic daemon for edge hardware.
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Remote MCP - Public Streamable HTTP MCP server and directory of 1,700+ independent live-music venues, booking contacts, and touring routes across all 50 US states, DC, and BC.
 - **[Autobot](https://github.com/crystal-autobot/autobot)** - Crystal - AI assistant with kernel-enforced sandboxing, multi-provider LLM, voice, vision, cron, and MCP tools.
 - **[moxxy](https://github.com/moxxy-ai/moxxy)** - Rust - A self-hosted multi-agent AI framework built in Rust.
 - **[Microclaw](https://github.com/microclaw/microclaw)** - Rust - An agentic AI assistant for chat surfaces, inspired by nanoclaw and incorporating some of its design ideas.
